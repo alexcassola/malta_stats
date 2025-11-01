@@ -1,0 +1,1351 @@
+frequency,geographical_region,age_group,sex,time_period,observation_value
+Annual,Maltese Islands,Total,Total,2018,492968
+Annual,Maltese Islands,Total,Total,2019,514855
+Annual,Maltese Islands,Total,Total,2020,516125
+Annual,Maltese Islands,Total,Total,2021,520174
+Annual,Maltese Islands,Total,Total,2022,542051
+Annual,Maltese Islands,Total,Total,2023,563443
+Annual,Maltese Islands,55 - 59 years,Males,2018,15858
+Annual,Maltese Islands,55 - 59 years,Males,2019,16025
+Annual,Maltese Islands,55 - 59 years,Males,2020,15592
+Annual,Maltese Islands,55 - 59 years,Males,2021,15167
+Annual,Maltese Islands,55 - 59 years,Males,2022,14789
+Annual,Maltese Islands,55 - 59 years,Males,2023,14790
+Annual,Maltese Islands,65 - 69 years,Total,2018,28438
+Annual,Maltese Islands,65 - 69 years,Total,2019,28269
+Annual,Maltese Islands,65 - 69 years,Total,2020,28051
+Annual,Maltese Islands,65 - 69 years,Total,2021,28484
+Annual,Maltese Islands,65 - 69 years,Total,2022,29115
+Annual,Maltese Islands,65 - 69 years,Total,2023,29578
+Annual,Maltese Islands,15 - 64 years,Females,2018,159460
+Annual,Maltese Islands,15 - 64 years,Females,2019,165120
+Annual,Maltese Islands,15 - 64 years,Females,2020,164412
+Annual,Maltese Islands,15 - 64 years,Females,2021,164417
+Annual,Maltese Islands,15 - 64 years,Females,2022,169877
+Annual,Maltese Islands,15 - 64 years,Females,2023,175743
+Annual,Maltese Islands,30 - 34 years,Males,2018,22784
+Annual,Maltese Islands,30 - 34 years,Males,2019,25398
+Annual,Maltese Islands,30 - 34 years,Males,2020,25704
+Annual,Maltese Islands,30 - 34 years,Males,2021,26336
+Annual,Maltese Islands,30 - 34 years,Males,2022,29453
+Annual,Maltese Islands,30 - 34 years,Males,2023,32258
+Annual,Maltese Islands,30 - 34 years,Females,2018,19860
+Annual,Maltese Islands,30 - 34 years,Females,2019,21594
+Annual,Maltese Islands,30 - 34 years,Females,2020,22011
+Annual,Maltese Islands,30 - 34 years,Females,2021,22217
+Annual,Maltese Islands,30 - 34 years,Females,2022,23390
+Annual,Maltese Islands,30 - 34 years,Females,2023,24521
+Annual,Maltese Islands,45 - 49 years,Total,2018,30513
+Annual,Maltese Islands,45 - 49 years,Total,2019,33019
+Annual,Maltese Islands,45 - 49 years,Total,2020,34342
+Annual,Maltese Islands,45 - 49 years,Total,2021,35531
+Annual,Maltese Islands,45 - 49 years,Total,2022,37457
+Annual,Maltese Islands,45 - 49 years,Total,2023,39339
+Annual,Maltese Islands,Total,Females,2018,240787
+Annual,Maltese Islands,Total,Females,2019,248296
+Annual,Maltese Islands,Total,Females,2020,248511
+Annual,Maltese Islands,Total,Females,2021,249705
+Annual,Maltese Islands,Total,Females,2022,257230
+Annual,Maltese Islands,Total,Females,2023,264697
+Annual,Maltese Islands,10 - 14 years,Males,2018,11174
+Annual,Maltese Islands,10 - 14 years,Males,2019,11467
+Annual,Maltese Islands,10 - 14 years,Males,2020,11484
+Annual,Maltese Islands,10 - 14 years,Males,2021,11650
+Annual,Maltese Islands,10 - 14 years,Males,2022,11915
+Annual,Maltese Islands,10 - 14 years,Males,2023,12008
+Annual,Maltese Islands,10 - 14 years,Females,2018,10309
+Annual,Maltese Islands,10 - 14 years,Females,2019,10606
+Annual,Maltese Islands,10 - 14 years,Females,2020,10666
+Annual,Maltese Islands,10 - 14 years,Females,2021,10927
+Annual,Maltese Islands,10 - 14 years,Females,2022,11272
+Annual,Maltese Islands,10 - 14 years,Females,2023,11285
+Annual,Maltese Islands,20 - 24 years,Total,2018,31208
+Annual,Maltese Islands,20 - 24 years,Total,2019,32284
+Annual,Maltese Islands,20 - 24 years,Total,2020,30736
+Annual,Maltese Islands,20 - 24 years,Total,2021,29447
+Annual,Maltese Islands,20 - 24 years,Total,2022,30742
+Annual,Maltese Islands,20 - 24 years,Total,2023,31883
+Annual,Maltese Islands,85 - 89 years,Males,2018,2104
+Annual,Maltese Islands,85 - 89 years,Males,2019,2244
+Annual,Maltese Islands,85 - 89 years,Males,2020,2400
+Annual,Maltese Islands,85 - 89 years,Males,2021,2568
+Annual,Maltese Islands,85 - 89 years,Males,2022,2725
+Annual,Maltese Islands,85 - 89 years,Males,2023,2850
+Annual,Maltese Islands,85 - 89 years,Females,2018,4066
+Annual,Maltese Islands,85 - 89 years,Females,2019,4184
+Annual,Maltese Islands,85 - 89 years,Females,2020,4325
+Annual,Maltese Islands,85 - 89 years,Females,2021,4418
+Annual,Maltese Islands,85 - 89 years,Females,2022,4518
+Annual,Maltese Islands,85 - 89 years,Females,2023,4640
+Annual,Maltese Islands,100 years and over,Total,2018,44
+Annual,Maltese Islands,100 years and over,Total,2019,60
+Annual,Maltese Islands,100 years and over,Total,2020,58
+Annual,Maltese Islands,100 years and over,Total,2021,56
+Annual,Maltese Islands,100 years and over,Total,2022,54
+Annual,Maltese Islands,100 years and over,Total,2023,64
+Annual,Malta,0 - 4 years,Total,2018,21125
+Annual,Malta,0 - 4 years,Total,2019,21408
+Annual,Malta,0 - 4 years,Total,2020,21062
+Annual,Malta,0 - 4 years,Total,2021,20689
+Annual,Malta,0 - 4 years,Total,2022,20914
+Annual,Malta,0 - 4 years,Total,2023,20805
+Annual,Malta,65 years and over,Males,2018,37680
+Annual,Malta,65 years and over,Males,2019,38915
+Annual,Malta,65 years and over,Males,2020,40000
+Annual,Malta,65 years and over,Males,2021,41172
+Annual,Malta,65 years and over,Males,2022,42518
+Annual,Malta,65 years and over,Males,2023,43733
+Annual,Malta,65 years and over,Females,2018,44905
+Annual,Malta,65 years and over,Females,2019,46042
+Annual,Malta,65 years and over,Females,2020,46966
+Annual,Malta,65 years and over,Females,2021,48067
+Annual,Malta,65 years and over,Females,2022,49346
+Annual,Malta,65 years and over,Females,2023,50502
+Annual,Malta,75 - 79 years,Total,2018,12809
+Annual,Malta,75 - 79 years,Total,2019,14595
+Annual,Malta,75 - 79 years,Total,2020,16255
+Annual,Malta,75 - 79 years,Total,2021,18483
+Annual,Malta,75 - 79 years,Total,2022,20968
+Annual,Malta,75 - 79 years,Total,2023,22623
+Annual,Malta,80 - 84 years,Males,2018,4292
+Annual,Malta,80 - 84 years,Males,2019,4451
+Annual,Malta,80 - 84 years,Males,2020,4417
+Annual,Malta,80 - 84 years,Males,2021,4242
+Annual,Malta,80 - 84 years,Males,2022,4142
+Annual,Malta,80 - 84 years,Males,2023,4359
+Annual,Gozo,40 - 44 years,Females,2018,1039
+Annual,Gozo,40 - 44 years,Females,2019,1081
+Annual,Gozo,40 - 44 years,Females,2020,1107
+Annual,Gozo,40 - 44 years,Females,2021,1136
+Annual,Gozo,40 - 44 years,Females,2022,1187
+Annual,Gozo,40 - 44 years,Females,2023,1255
+Annual,Gozo,55 - 59 years,Total,2018,2734
+Annual,Gozo,55 - 59 years,Total,2019,2794
+Annual,Gozo,55 - 59 years,Total,2020,2746
+Annual,Gozo,55 - 59 years,Total,2021,2732
+Annual,Gozo,55 - 59 years,Total,2022,2600
+Annual,Gozo,55 - 59 years,Total,2023,2481
+Annual,Gozo,60 - 64 years,Males,2018,1293
+Annual,Gozo,60 - 64 years,Males,2019,1365
+Annual,Gozo,60 - 64 years,Males,2020,1384
+Annual,Gozo,60 - 64 years,Males,2021,1456
+Annual,Gozo,60 - 64 years,Males,2022,1487
+Annual,Gozo,60 - 64 years,Males,2023,1491
+Annual,Maltese Islands,0 - 14 years,Males,2018,34528
+Annual,Maltese Islands,0 - 14 years,Males,2019,35282
+Annual,Maltese Islands,0 - 14 years,Males,2020,35245
+Annual,Maltese Islands,0 - 14 years,Males,2021,35171
+Annual,Maltese Islands,0 - 14 years,Males,2022,35684
+Annual,Maltese Islands,0 - 14 years,Males,2023,35884
+Annual,Maltese Islands,50 - 54 years,Total,2018,28250
+Annual,Maltese Islands,50 - 54 years,Total,2019,28734
+Annual,Maltese Islands,50 - 54 years,Total,2020,28929
+Annual,Maltese Islands,50 - 54 years,Total,2021,29727
+Annual,Maltese Islands,50 - 54 years,Total,2022,31153
+Annual,Maltese Islands,50 - 54 years,Total,2023,32257
+Annual,Maltese Islands,70 - 74 years,Males,2018,13275
+Annual,Maltese Islands,70 - 74 years,Males,2019,13417
+Annual,Maltese Islands,70 - 74 years,Males,2020,13609
+Annual,Maltese Islands,70 - 74 years,Males,2021,13449
+Annual,Maltese Islands,70 - 74 years,Males,2022,13253
+Annual,Maltese Islands,70 - 74 years,Males,2023,13022
+Annual,Maltese Islands,15 - 64 years,Males,2018,176345
+Annual,Maltese Islands,15 - 64 years,Males,2019,188545
+Annual,Maltese Islands,15 - 64 years,Males,2020,188502
+Annual,Maltese Islands,15 - 64 years,Males,2021,190048
+Annual,Maltese Islands,15 - 64 years,Males,2022,202442
+Annual,Maltese Islands,15 - 64 years,Males,2023,214812
+Annual,Maltese Islands,50 - 54 years,Females,2018,13728
+Annual,Maltese Islands,50 - 54 years,Females,2019,13788
+Annual,Maltese Islands,50 - 54 years,Females,2020,13812
+Annual,Maltese Islands,50 - 54 years,Females,2021,14166
+Annual,Maltese Islands,50 - 54 years,Females,2022,14718
+Annual,Maltese Islands,50 - 54 years,Females,2023,15205
+Annual,Maltese Islands,90 - 94 years,Males,2018,716
+Annual,Maltese Islands,90 - 94 years,Males,2019,720
+Annual,Maltese Islands,90 - 94 years,Males,2020,741
+Annual,Maltese Islands,90 - 94 years,Males,2021,797
+Annual,Maltese Islands,90 - 94 years,Males,2022,821
+Annual,Maltese Islands,90 - 94 years,Males,2023,870
+Annual,Maltese Islands,5 - 9 years,Total,2018,22552
+Annual,Maltese Islands,5 - 9 years,Total,2019,22934
+Annual,Maltese Islands,5 - 9 years,Total,2020,23083
+Annual,Maltese Islands,5 - 9 years,Total,2021,23032
+Annual,Maltese Islands,5 - 9 years,Total,2022,23281
+Annual,Maltese Islands,5 - 9 years,Total,2023,23766
+Annual,Maltese Islands,25 - 29 years,Males,2018,22098
+Annual,Maltese Islands,25 - 29 years,Males,2019,24317
+Annual,Maltese Islands,25 - 29 years,Males,2020,23993
+Annual,Maltese Islands,25 - 29 years,Males,2021,23957
+Annual,Maltese Islands,25 - 29 years,Males,2022,26800
+Annual,Maltese Islands,25 - 29 years,Males,2023,29844
+Annual,Maltese Islands,40 - 44 years,Total,2018,36106
+Annual,Maltese Islands,40 - 44 years,Total,2019,38868
+Annual,Maltese Islands,40 - 44 years,Total,2020,39723
+Annual,Maltese Islands,40 - 44 years,Total,2021,40440
+Annual,Maltese Islands,40 - 44 years,Total,2022,43183
+Annual,Maltese Islands,40 - 44 years,Total,2023,45652
+Annual,Maltese Islands,45 - 49 years,Males,2018,15863
+Annual,Maltese Islands,45 - 49 years,Males,2019,17429
+Annual,Maltese Islands,45 - 49 years,Males,2020,18220
+Annual,Maltese Islands,45 - 49 years,Males,2021,18893
+Annual,Maltese Islands,45 - 49 years,Males,2022,20116
+Annual,Maltese Islands,45 - 49 years,Males,2023,21307
+Annual,Maltese Islands,65 - 69 years,Females,2018,14328
+Annual,Maltese Islands,65 - 69 years,Females,2019,14253
+Annual,Maltese Islands,65 - 69 years,Females,2020,14100
+Annual,Maltese Islands,65 - 69 years,Females,2021,14288
+Annual,Maltese Islands,65 - 69 years,Females,2022,14579
+Annual,Maltese Islands,65 - 69 years,Females,2023,14825
+Annual,Maltese Islands,80 - 84 years,Total,2018,11354
+Annual,Maltese Islands,80 - 84 years,Total,2019,11670
+Annual,Maltese Islands,80 - 84 years,Total,2020,11570
+Annual,Maltese Islands,80 - 84 years,Total,2021,11193
+Annual,Maltese Islands,80 - 84 years,Total,2022,10769
+Annual,Maltese Islands,80 - 84 years,Total,2023,11261
+Annual,Malta,5 - 9 years,Females,2018,10178
+Annual,Malta,5 - 9 years,Females,2019,10239
+Annual,Malta,5 - 9 years,Females,2020,10271
+Annual,Malta,5 - 9 years,Females,2021,10138
+Annual,Malta,5 - 9 years,Females,2022,10278
+Annual,Malta,5 - 9 years,Females,2023,10550
+Annual,Malta,45 - 49 years,Males,2018,14746
+Annual,Malta,45 - 49 years,Males,2019,16169
+Annual,Malta,45 - 49 years,Males,2020,16917
+Annual,Malta,45 - 49 years,Males,2021,17531
+Annual,Malta,45 - 49 years,Males,2022,18728
+Annual,Malta,45 - 49 years,Males,2023,19906
+Annual,Malta,60 - 64 years,Total,2018,28020
+Annual,Malta,60 - 64 years,Total,2019,28427
+Annual,Malta,60 - 64 years,Total,2020,28544
+Annual,Malta,60 - 64 years,Total,2021,28294
+Annual,Malta,60 - 64 years,Total,2022,28219
+Annual,Malta,60 - 64 years,Total,2023,27864
+Annual,Malta,80 - 84 years,Females,2018,6050
+Annual,Malta,80 - 84 years,Females,2019,6198
+Annual,Malta,80 - 84 years,Females,2020,6158
+Annual,Malta,80 - 84 years,Females,2021,5996
+Annual,Malta,80 - 84 years,Females,2022,5691
+Annual,Malta,80 - 84 years,Females,2023,5886
+Annual,Gozo,0 - 14 years,Total,2018,4675
+Annual,Gozo,0 - 14 years,Total,2019,4835
+Annual,Gozo,0 - 14 years,Total,2020,4937
+Annual,Gozo,0 - 14 years,Total,2021,5009
+Annual,Gozo,0 - 14 years,Total,2022,5088
+Annual,Gozo,0 - 14 years,Total,2023,5101
+Annual,Gozo,0 - 4 years,Males,2018,789
+Annual,Gozo,0 - 4 years,Males,2019,828
+Annual,Gozo,0 - 4 years,Males,2020,827
+Annual,Gozo,0 - 4 years,Males,2021,762
+Annual,Gozo,0 - 4 years,Males,2022,798
+Annual,Gozo,0 - 4 years,Males,2023,823
+Annual,Gozo,20 - 24 years,Females,2018,1035
+Annual,Gozo,20 - 24 years,Females,2019,1067
+Annual,Gozo,20 - 24 years,Females,2020,1075
+Annual,Gozo,20 - 24 years,Females,2021,1044
+Annual,Gozo,20 - 24 years,Females,2022,1026
+Annual,Gozo,20 - 24 years,Females,2023,1006
+Annual,Gozo,70 - 74 years,Total,2018,2391
+Annual,Gozo,70 - 74 years,Total,2019,2437
+Annual,Gozo,70 - 74 years,Total,2020,2416
+Annual,Gozo,70 - 74 years,Total,2021,2406
+Annual,Gozo,70 - 74 years,Total,2022,2378
+Annual,Gozo,70 - 74 years,Total,2023,2347
+Annual,Gozo,75 - 79 years,Males,2018,565
+Annual,Gozo,75 - 79 years,Males,2019,667
+Annual,Gozo,75 - 79 years,Males,2020,719
+Annual,Gozo,75 - 79 years,Males,2021,836
+Annual,Gozo,75 - 79 years,Males,2022,933
+Annual,Gozo,75 - 79 years,Males,2023,1010
+Annual,Gozo,100 years and over,Females,2018,2
+Annual,Gozo,100 years and over,Females,2019,3
+Annual,Gozo,100 years and over,Females,2020,3
+Annual,Gozo,100 years and over,Females,2021,0
+Annual,Gozo,100 years and over,Females,2022,1
+Annual,Gozo,100 years and over,Females,2023,4
+Annual,Maltese Islands,0 - 14 years,Females,2018,32169
+Annual,Maltese Islands,0 - 14 years,Females,2019,32748
+Annual,Maltese Islands,0 - 14 years,Females,2020,32700
+Annual,Maltese Islands,0 - 14 years,Females,2021,32679
+Annual,Maltese Islands,0 - 14 years,Females,2022,33298
+Annual,Maltese Islands,0 - 14 years,Females,2023,33598
+Annual,Maltese Islands,15 - 19 years,Females,2018,11045
+Annual,Maltese Islands,15 - 19 years,Females,2019,11027
+Annual,Maltese Islands,15 - 19 years,Females,2020,10503
+Annual,Maltese Islands,15 - 19 years,Females,2021,10503
+Annual,Maltese Islands,15 - 19 years,Females,2022,10690
+Annual,Maltese Islands,15 - 19 years,Females,2023,10750
+Annual,Maltese Islands,25 - 29 years,Total,2018,41939
+Annual,Maltese Islands,25 - 29 years,Total,2019,44773
+Annual,Maltese Islands,25 - 29 years,Total,2020,43550
+Annual,Maltese Islands,25 - 29 years,Total,2021,42987
+Annual,Maltese Islands,25 - 29 years,Total,2022,46662
+Annual,Maltese Islands,25 - 29 years,Total,2023,50672
+Annual,Maltese Islands,30 - 34 years,Total,2018,42644
+Annual,Maltese Islands,30 - 34 years,Total,2019,46992
+Annual,Maltese Islands,30 - 34 years,Total,2020,47715
+Annual,Maltese Islands,30 - 34 years,Total,2021,48553
+Annual,Maltese Islands,30 - 34 years,Total,2022,52843
+Annual,Maltese Islands,30 - 34 years,Total,2023,56779
+Annual,Maltese Islands,35 - 39 years,Males,2018,21156
+Annual,Maltese Islands,35 - 39 years,Males,2019,23420
+Annual,Maltese Islands,35 - 39 years,Males,2020,23908
+Annual,Maltese Islands,35 - 39 years,Males,2021,24630
+Annual,Maltese Islands,35 - 39 years,Males,2022,26810
+Annual,Maltese Islands,35 - 39 years,Males,2023,29238
+Annual,Maltese Islands,90 - 94 years,Females,2018,1550
+Annual,Maltese Islands,90 - 94 years,Females,2019,1621
+Annual,Maltese Islands,90 - 94 years,Females,2020,1687
+Annual,Maltese Islands,90 - 94 years,Females,2021,1802
+Annual,Maltese Islands,90 - 94 years,Females,2022,1924
+Annual,Maltese Islands,90 - 94 years,Females,2023,2077
+Annual,Maltese Islands,Total,Males,2018,252181
+Annual,Maltese Islands,Total,Males,2019,266559
+Annual,Maltese Islands,Total,Males,2020,267614
+Annual,Maltese Islands,Total,Males,2021,270469
+Annual,Maltese Islands,Total,Males,2022,284821
+Annual,Maltese Islands,Total,Males,2023,298746
+Annual,Maltese Islands,10 - 14 years,Total,2018,21483
+Annual,Maltese Islands,10 - 14 years,Total,2019,22073
+Annual,Maltese Islands,10 - 14 years,Total,2020,22150
+Annual,Maltese Islands,10 - 14 years,Total,2021,22577
+Annual,Maltese Islands,10 - 14 years,Total,2022,23187
+Annual,Maltese Islands,10 - 14 years,Total,2023,23293
+Annual,Maltese Islands,60 - 64 years,Total,2018,30603
+Annual,Maltese Islands,60 - 64 years,Total,2019,31149
+Annual,Maltese Islands,60 - 64 years,Total,2020,31351
+Annual,Maltese Islands,60 - 64 years,Total,2021,31213
+Annual,Maltese Islands,60 - 64 years,Total,2022,31150
+Annual,Maltese Islands,60 - 64 years,Total,2023,30773
+Annual,Maltese Islands,65 years and over,Total,2018,90466
+Annual,Maltese Islands,65 years and over,Total,2019,93160
+Annual,Maltese Islands,65 years and over,Total,2020,95266
+Annual,Maltese Islands,65 years and over,Total,2021,97859
+Annual,Maltese Islands,65 years and over,Total,2022,100750
+Annual,Maltese Islands,65 years and over,Total,2023,103406
+Annual,Maltese Islands,65 years and over,Males,2018,41308
+Annual,Maltese Islands,65 years and over,Males,2019,42732
+Annual,Maltese Islands,65 years and over,Males,2020,43867
+Annual,Maltese Islands,65 years and over,Males,2021,45250
+Annual,Maltese Islands,65 years and over,Males,2022,46695
+Annual,Maltese Islands,65 years and over,Males,2023,48050
+Annual,Malta,10 - 14 years,Females,2018,9544
+Annual,Malta,10 - 14 years,Females,2019,9823
+Annual,Malta,10 - 14 years,Females,2020,9884
+Annual,Malta,10 - 14 years,Females,2021,10116
+Annual,Malta,10 - 14 years,Females,2022,10420
+Annual,Malta,10 - 14 years,Females,2023,10428
+Annual,Malta,25 - 29 years,Males,2018,20739
+Annual,Malta,25 - 29 years,Males,2019,22796
+Annual,Malta,25 - 29 years,Males,2020,22435
+Annual,Malta,25 - 29 years,Males,2021,22348
+Annual,Malta,25 - 29 years,Males,2022,25056
+Annual,Malta,25 - 29 years,Males,2023,28084
+Annual,Malta,40 - 44 years,Total,2018,33894
+Annual,Malta,40 - 44 years,Total,2019,36497
+Annual,Malta,40 - 44 years,Total,2020,37254
+Annual,Malta,40 - 44 years,Total,2021,37883
+Annual,Malta,40 - 44 years,Total,2022,40464
+Annual,Malta,40 - 44 years,Total,2023,42787
+Annual,Malta,100 years and over,Females,2018,38
+Annual,Malta,100 years and over,Females,2019,53
+Annual,Malta,100 years and over,Females,2020,52
+Annual,Malta,100 years and over,Females,2021,52
+Annual,Malta,100 years and over,Females,2022,50
+Annual,Malta,100 years and over,Females,2023,55
+Annual,Gozo,0 - 4 years,Females,2018,748
+Annual,Gozo,0 - 4 years,Females,2019,787
+Annual,Gozo,0 - 4 years,Females,2020,823
+Annual,Gozo,0 - 4 years,Females,2021,790
+Annual,Gozo,0 - 4 years,Females,2022,802
+Annual,Gozo,0 - 4 years,Females,2023,795
+Annual,Gozo,5 - 9 years,Males,2018,795
+Annual,Gozo,5 - 9 years,Males,2019,829
+Annual,Gozo,5 - 9 years,Males,2020,871
+Annual,Gozo,5 - 9 years,Males,2021,923
+Annual,Gozo,5 - 9 years,Males,2022,892
+Annual,Gozo,5 - 9 years,Males,2023,851
+Annual,Gozo,5 - 9 years,Females,2018,766
+Annual,Gozo,5 - 9 years,Females,2019,782
+Annual,Gozo,5 - 9 years,Females,2020,808
+Annual,Gozo,5 - 9 years,Females,2021,857
+Annual,Gozo,5 - 9 years,Females,2022,841
+Annual,Gozo,5 - 9 years,Females,2023,869
+Annual,Gozo,90 - 94 years,Total,2018,233
+Annual,Gozo,90 - 94 years,Total,2019,243
+Annual,Gozo,90 - 94 years,Total,2020,250
+Annual,Gozo,90 - 94 years,Total,2021,253
+Annual,Gozo,90 - 94 years,Total,2022,255
+Annual,Gozo,90 - 94 years,Total,2023,283
+Annual,Gozo,95 - 99 years,Total,2018,40
+Annual,Gozo,95 - 99 years,Total,2019,49
+Annual,Gozo,95 - 99 years,Total,2020,56
+Annual,Gozo,95 - 99 years,Total,2021,60
+Annual,Gozo,95 - 99 years,Total,2022,69
+Annual,Gozo,95 - 99 years,Total,2023,59
+Annual,Gozo,100 years and over,Males,2018,1
+Annual,Gozo,100 years and over,Males,2019,0
+Annual,Gozo,100 years and over,Males,2020,0
+Annual,Gozo,100 years and over,Males,2021,0
+Annual,Gozo,100 years and over,Males,2022,1
+Annual,Gozo,100 years and over,Males,2023,1
+Annual,Maltese Islands,0 - 14 years,Total,2018,66697
+Annual,Maltese Islands,0 - 14 years,Total,2019,68030
+Annual,Maltese Islands,0 - 14 years,Total,2020,67945
+Annual,Maltese Islands,0 - 14 years,Total,2021,67850
+Annual,Maltese Islands,0 - 14 years,Total,2022,68982
+Annual,Maltese Islands,0 - 14 years,Total,2023,69482
+Annual,Maltese Islands,0 - 4 years,Males,2018,11746
+Annual,Maltese Islands,0 - 4 years,Males,2019,11902
+Annual,Maltese Islands,0 - 4 years,Males,2020,11757
+Annual,Maltese Islands,0 - 4 years,Males,2021,11484
+Annual,Maltese Islands,0 - 4 years,Males,2022,11607
+Annual,Maltese Islands,0 - 4 years,Males,2023,11529
+Annual,Maltese Islands,55 - 59 years,Females,2018,15301
+Annual,Maltese Islands,55 - 59 years,Females,2019,15072
+Annual,Maltese Islands,55 - 59 years,Females,2020,14604
+Annual,Maltese Islands,55 - 59 years,Females,2021,14186
+Annual,Maltese Islands,55 - 59 years,Females,2022,13897
+Annual,Maltese Islands,55 - 59 years,Females,2023,13892
+Annual,Maltese Islands,85 - 89 years,Total,2018,6170
+Annual,Maltese Islands,85 - 89 years,Total,2019,6428
+Annual,Maltese Islands,85 - 89 years,Total,2020,6725
+Annual,Maltese Islands,85 - 89 years,Total,2021,6986
+Annual,Maltese Islands,85 - 89 years,Total,2022,7243
+Annual,Maltese Islands,85 - 89 years,Total,2023,7490
+Annual,Maltese Islands,90 - 94 years,Total,2018,2266
+Annual,Maltese Islands,90 - 94 years,Total,2019,2341
+Annual,Maltese Islands,90 - 94 years,Total,2020,2428
+Annual,Maltese Islands,90 - 94 years,Total,2021,2599
+Annual,Maltese Islands,90 - 94 years,Total,2022,2745
+Annual,Maltese Islands,90 - 94 years,Total,2023,2947
+Annual,Maltese Islands,95 - 99 years,Males,2018,92
+Annual,Maltese Islands,95 - 99 years,Males,2019,110
+Annual,Maltese Islands,95 - 99 years,Males,2020,129
+Annual,Maltese Islands,95 - 99 years,Males,2021,152
+Annual,Maltese Islands,95 - 99 years,Males,2022,156
+Annual,Maltese Islands,95 - 99 years,Males,2023,168
+Annual,Maltese Islands,50 - 54 years,Males,2018,14522
+Annual,Maltese Islands,50 - 54 years,Males,2019,14946
+Annual,Maltese Islands,50 - 54 years,Males,2020,15117
+Annual,Maltese Islands,50 - 54 years,Males,2021,15561
+Annual,Maltese Islands,50 - 54 years,Males,2022,16435
+Annual,Maltese Islands,50 - 54 years,Males,2023,17052
+Annual,Maltese Islands,70 - 74 years,Females,2018,14392
+Annual,Maltese Islands,70 - 74 years,Females,2019,14431
+Annual,Maltese Islands,70 - 74 years,Females,2020,14479
+Annual,Maltese Islands,70 - 74 years,Females,2021,14266
+Annual,Maltese Islands,70 - 74 years,Females,2022,14009
+Annual,Maltese Islands,70 - 74 years,Females,2023,13714
+Annual,Maltese Islands,0 - 4 years,Total,2018,22662
+Annual,Maltese Islands,0 - 4 years,Total,2019,23023
+Annual,Maltese Islands,0 - 4 years,Total,2020,22712
+Annual,Maltese Islands,0 - 4 years,Total,2021,22241
+Annual,Maltese Islands,0 - 4 years,Total,2022,22514
+Annual,Maltese Islands,0 - 4 years,Total,2023,22423
+Annual,Maltese Islands,5 - 9 years,Males,2018,11608
+Annual,Maltese Islands,5 - 9 years,Males,2019,11913
+Annual,Maltese Islands,5 - 9 years,Males,2020,12004
+Annual,Maltese Islands,5 - 9 years,Males,2021,12037
+Annual,Maltese Islands,5 - 9 years,Males,2022,12162
+Annual,Maltese Islands,5 - 9 years,Males,2023,12347
+Annual,Maltese Islands,25 - 29 years,Females,2018,19841
+Annual,Maltese Islands,25 - 29 years,Females,2019,20456
+Annual,Maltese Islands,25 - 29 years,Females,2020,19557
+Annual,Maltese Islands,25 - 29 years,Females,2021,19030
+Annual,Maltese Islands,25 - 29 years,Females,2022,19862
+Annual,Maltese Islands,25 - 29 years,Females,2023,20828
+Annual,Maltese Islands,65 - 69 years,Males,2018,14110
+Annual,Maltese Islands,65 - 69 years,Males,2019,14016
+Annual,Maltese Islands,65 - 69 years,Males,2020,13951
+Annual,Maltese Islands,65 - 69 years,Males,2021,14196
+Annual,Maltese Islands,65 - 69 years,Males,2022,14536
+Annual,Maltese Islands,65 - 69 years,Males,2023,14753
+Annual,Malta,15 - 19 years,Total,2018,21720
+Annual,Malta,15 - 19 years,Total,2019,21743
+Annual,Malta,15 - 19 years,Total,2020,20673
+Annual,Malta,15 - 19 years,Total,2021,20530
+Annual,Malta,15 - 19 years,Total,2022,20785
+Annual,Malta,15 - 19 years,Total,2023,20973
+Annual,Malta,20 - 24 years,Males,2018,15911
+Annual,Malta,20 - 24 years,Males,2019,16736
+Annual,Malta,20 - 24 years,Males,2020,15792
+Annual,Malta,20 - 24 years,Males,2021,15088
+Annual,Malta,20 - 24 years,Males,2022,15812
+Annual,Malta,20 - 24 years,Males,2023,16522
+Annual,Malta,40 - 44 years,Females,2018,15995
+Annual,Malta,40 - 44 years,Females,2019,16924
+Annual,Malta,40 - 44 years,Females,2020,17229
+Annual,Malta,40 - 44 years,Females,2021,17469
+Annual,Malta,40 - 44 years,Females,2022,18462
+Annual,Malta,40 - 44 years,Females,2023,19282
+Annual,Malta,45 - 49 years,Females,2018,13644
+Annual,Malta,45 - 49 years,Females,2019,14509
+Annual,Malta,45 - 49 years,Females,2020,14996
+Annual,Malta,45 - 49 years,Females,2021,15486
+Annual,Malta,45 - 49 years,Females,2022,16172
+Annual,Malta,45 - 49 years,Females,2023,16871
+Annual,Malta,85 - 89 years,Males,2018,1916
+Annual,Malta,85 - 89 years,Males,2019,2044
+Annual,Malta,85 - 89 years,Males,2020,2186
+Annual,Malta,85 - 89 years,Males,2021,2346
+Annual,Malta,85 - 89 years,Males,2022,2498
+Annual,Malta,85 - 89 years,Males,2023,2627
+Annual,Gozo,0 - 4 years,Total,2018,1537
+Annual,Gozo,0 - 4 years,Total,2019,1615
+Annual,Gozo,0 - 4 years,Total,2020,1650
+Annual,Gozo,0 - 4 years,Total,2021,1552
+Annual,Gozo,0 - 4 years,Total,2022,1600
+Annual,Gozo,0 - 4 years,Total,2023,1618
+Annual,Gozo,30 - 34 years,Total,2018,2440
+Annual,Gozo,30 - 34 years,Total,2019,2745
+Annual,Gozo,30 - 34 years,Total,2020,2878
+Annual,Gozo,30 - 34 years,Total,2021,2922
+Annual,Gozo,30 - 34 years,Total,2022,3058
+Annual,Gozo,30 - 34 years,Total,2023,3216
+Annual,Gozo,35 - 39 years,Total,2018,2306
+Annual,Gozo,35 - 39 years,Total,2019,2578
+Annual,Gozo,35 - 39 years,Total,2020,2739
+Annual,Gozo,35 - 39 years,Total,2021,2904
+Annual,Gozo,35 - 39 years,Total,2022,3019
+Annual,Gozo,35 - 39 years,Total,2023,3203
+Annual,Gozo,40 - 44 years,Males,2018,1173
+Annual,Gozo,40 - 44 years,Males,2019,1290
+Annual,Gozo,40 - 44 years,Males,2020,1362
+Annual,Gozo,40 - 44 years,Males,2021,1421
+Annual,Gozo,40 - 44 years,Males,2022,1532
+Annual,Gozo,40 - 44 years,Males,2023,1610
+Annual,Gozo,60 - 64 years,Females,2018,1290
+Annual,Gozo,60 - 64 years,Females,2019,1357
+Annual,Gozo,60 - 64 years,Females,2020,1423
+Annual,Gozo,60 - 64 years,Females,2021,1463
+Annual,Gozo,60 - 64 years,Females,2022,1444
+Annual,Gozo,60 - 64 years,Females,2023,1418
+Annual,Gozo,65 years and over,Females,2018,4253
+Annual,Gozo,65 years and over,Females,2019,4386
+Annual,Gozo,65 years and over,Females,2020,4433
+Annual,Gozo,65 years and over,Females,2021,4542
+Annual,Gozo,65 years and over,Females,2022,4709
+Annual,Gozo,65 years and over,Females,2023,4854
+Annual,Gozo,95 - 99 years,Females,2018,28
+Annual,Gozo,95 - 99 years,Females,2019,33
+Annual,Gozo,95 - 99 years,Females,2020,37
+Annual,Gozo,95 - 99 years,Females,2021,40
+Annual,Gozo,95 - 99 years,Females,2022,50
+Annual,Gozo,95 - 99 years,Females,2023,44
+Annual,Maltese Islands,60 - 64 years,Males,2018,15416
+Annual,Maltese Islands,60 - 64 years,Males,2019,15678
+Annual,Maltese Islands,60 - 64 years,Males,2020,15734
+Annual,Maltese Islands,60 - 64 years,Males,2021,15732
+Annual,Maltese Islands,60 - 64 years,Males,2022,15725
+Annual,Maltese Islands,60 - 64 years,Males,2023,15622
+Annual,Maltese Islands,60 - 64 years,Females,2018,15187
+Annual,Maltese Islands,60 - 64 years,Females,2019,15471
+Annual,Maltese Islands,60 - 64 years,Females,2020,15617
+Annual,Maltese Islands,60 - 64 years,Females,2021,15481
+Annual,Maltese Islands,60 - 64 years,Females,2022,15425
+Annual,Maltese Islands,60 - 64 years,Females,2023,15151
+Annual,Maltese Islands,70 - 74 years,Total,2018,27667
+Annual,Maltese Islands,70 - 74 years,Total,2019,27848
+Annual,Maltese Islands,70 - 74 years,Total,2020,28088
+Annual,Maltese Islands,70 - 74 years,Total,2021,27715
+Annual,Maltese Islands,70 - 74 years,Total,2022,27262
+Annual,Maltese Islands,70 - 74 years,Total,2023,26736
+Annual,Maltese Islands,20 - 24 years,Males,2018,17066
+Annual,Maltese Islands,20 - 24 years,Males,2019,17943
+Annual,Maltese Islands,20 - 24 years,Males,2020,16983
+Annual,Maltese Islands,20 - 24 years,Males,2021,16240
+Annual,Maltese Islands,20 - 24 years,Males,2022,17029
+Annual,Maltese Islands,20 - 24 years,Males,2023,17704
+Annual,Maltese Islands,95 - 99 years,Total,2018,463
+Annual,Maltese Islands,95 - 99 years,Total,2019,502
+Annual,Maltese Islands,95 - 99 years,Total,2020,534
+Annual,Maltese Islands,95 - 99 years,Total,2021,576
+Annual,Maltese Islands,95 - 99 years,Total,2022,596
+Annual,Maltese Islands,95 - 99 years,Total,2023,600
+Annual,Malta,Total,Males,2018,233928
+Annual,Malta,Total,Males,2019,247032
+Annual,Malta,Total,Males,2020,247811
+Annual,Malta,Total,Males,2021,250063
+Annual,Malta,Total,Males,2022,263754
+Annual,Malta,Total,Males,2023,277258
+Annual,Malta,60 - 64 years,Males,2018,14123
+Annual,Malta,60 - 64 years,Males,2019,14313
+Annual,Malta,60 - 64 years,Males,2020,14350
+Annual,Malta,60 - 64 years,Males,2021,14276
+Annual,Malta,60 - 64 years,Males,2022,14238
+Annual,Malta,60 - 64 years,Males,2023,14131
+Annual,Malta,65 - 69 years,Males,2018,12878
+Annual,Malta,65 - 69 years,Males,2019,12766
+Annual,Malta,65 - 69 years,Males,2020,12712
+Annual,Malta,65 - 69 years,Males,2021,12884
+Annual,Malta,65 - 69 years,Males,2022,13228
+Annual,Malta,65 - 69 years,Males,2023,13407
+Annual,Malta,80 - 84 years,Total,2018,10342
+Annual,Malta,80 - 84 years,Total,2019,10649
+Annual,Malta,80 - 84 years,Total,2020,10575
+Annual,Malta,80 - 84 years,Total,2021,10238
+Annual,Malta,80 - 84 years,Total,2022,9833
+Annual,Malta,80 - 84 years,Total,2023,10245
+Annual,Malta,90 - 94 years,Total,2018,2033
+Annual,Malta,90 - 94 years,Total,2019,2098
+Annual,Malta,90 - 94 years,Total,2020,2178
+Annual,Malta,90 - 94 years,Total,2021,2346
+Annual,Malta,90 - 94 years,Total,2022,2490
+Annual,Malta,90 - 94 years,Total,2023,2664
+Annual,Gozo,25 - 29 years,Females,2018,1226
+Annual,Gozo,25 - 29 years,Females,2019,1249
+Annual,Gozo,25 - 29 years,Females,2020,1228
+Annual,Gozo,25 - 29 years,Females,2021,1206
+Annual,Gozo,25 - 29 years,Females,2022,1242
+Annual,Gozo,25 - 29 years,Females,2023,1296
+Annual,Gozo,45 - 49 years,Males,2018,1117
+Annual,Gozo,45 - 49 years,Males,2019,1260
+Annual,Gozo,45 - 49 years,Males,2020,1303
+Annual,Gozo,45 - 49 years,Males,2021,1362
+Annual,Gozo,45 - 49 years,Males,2022,1388
+Annual,Gozo,45 - 49 years,Males,2023,1401
+Annual,Gozo,65 - 69 years,Total,2018,2401
+Annual,Gozo,65 - 69 years,Total,2019,2434
+Annual,Gozo,65 - 69 years,Total,2020,2425
+Annual,Gozo,65 - 69 years,Total,2021,2571
+Annual,Gozo,65 - 69 years,Total,2022,2623
+Annual,Gozo,65 - 69 years,Total,2023,2718
+Annual,Maltese Islands,0 - 4 years,Females,2018,10916
+Annual,Maltese Islands,0 - 4 years,Females,2019,11121
+Annual,Maltese Islands,0 - 4 years,Females,2020,10955
+Annual,Maltese Islands,0 - 4 years,Females,2021,10757
+Annual,Maltese Islands,0 - 4 years,Females,2022,10907
+Annual,Maltese Islands,0 - 4 years,Females,2023,10894
+Annual,Maltese Islands,40 - 44 years,Males,2018,19072
+Annual,Maltese Islands,40 - 44 years,Males,2019,20863
+Annual,Maltese Islands,40 - 44 years,Males,2020,21387
+Annual,Maltese Islands,40 - 44 years,Males,2021,21835
+Annual,Maltese Islands,40 - 44 years,Males,2022,23534
+Annual,Maltese Islands,40 - 44 years,Males,2023,25115
+Annual,Maltese Islands,75 - 79 years,Females,2018,7762
+Annual,Maltese Islands,75 - 79 years,Females,2019,8690
+Annual,Maltese Islands,75 - 79 years,Females,2020,9604
+Annual,Maltese Islands,75 - 79 years,Females,2021,10814
+Annual,Maltese Islands,75 - 79 years,Females,2022,12308
+Annual,Maltese Islands,75 - 79 years,Females,2023,13152
+Annual,Maltese Islands,45 - 49 years,Females,2018,14650
+Annual,Maltese Islands,45 - 49 years,Females,2019,15590
+Annual,Maltese Islands,45 - 49 years,Females,2020,16122
+Annual,Maltese Islands,45 - 49 years,Females,2021,16638
+Annual,Maltese Islands,45 - 49 years,Females,2022,17341
+Annual,Maltese Islands,45 - 49 years,Females,2023,18032
+Annual,Maltese Islands,35 - 39 years,Total,2018,39828
+Annual,Maltese Islands,35 - 39 years,Total,2019,43196
+Annual,Maltese Islands,35 - 39 years,Total,2020,44005
+Annual,Maltese Islands,35 - 39 years,Total,2021,45014
+Annual,Maltese Islands,35 - 39 years,Total,2022,48002
+Annual,Maltese Islands,35 - 39 years,Total,2023,51886
+Annual,Maltese Islands,55 - 59 years,Total,2018,31159
+Annual,Maltese Islands,55 - 59 years,Total,2019,31097
+Annual,Maltese Islands,55 - 59 years,Total,2020,30196
+Annual,Maltese Islands,55 - 59 years,Total,2021,29353
+Annual,Maltese Islands,55 - 59 years,Total,2022,28686
+Annual,Maltese Islands,55 - 59 years,Total,2023,28682
+Annual,Maltese Islands,100 years and over,Females,2018,40
+Annual,Maltese Islands,100 years and over,Females,2019,56
+Annual,Maltese Islands,100 years and over,Females,2020,55
+Annual,Maltese Islands,100 years and over,Females,2021,52
+Annual,Maltese Islands,100 years and over,Females,2022,51
+Annual,Maltese Islands,100 years and over,Females,2023,59
+Annual,Malta,0 - 4 years,Males,2018,10957
+Annual,Malta,0 - 4 years,Males,2019,11074
+Annual,Malta,0 - 4 years,Males,2020,10930
+Annual,Malta,0 - 4 years,Males,2021,10722
+Annual,Malta,0 - 4 years,Males,2022,10809
+Annual,Malta,0 - 4 years,Males,2023,10706
+Annual,Malta,20 - 24 years,Total,2018,29018
+Annual,Malta,20 - 24 years,Total,2019,30010
+Annual,Malta,20 - 24 years,Total,2020,28470
+Annual,Malta,20 - 24 years,Total,2021,27251
+Annual,Malta,20 - 24 years,Total,2022,28499
+Annual,Malta,20 - 24 years,Total,2023,29695
+Annual,Malta,75 - 79 years,Males,2018,5737
+Annual,Malta,75 - 79 years,Males,2019,6685
+Annual,Malta,75 - 79 years,Males,2020,7489
+Annual,Malta,75 - 79 years,Males,2021,8600
+Annual,Malta,75 - 79 years,Males,2022,9725
+Annual,Malta,75 - 79 years,Males,2023,10568
+Annual,Malta,85 - 89 years,Females,2018,3708
+Annual,Malta,85 - 89 years,Females,2019,3815
+Annual,Malta,85 - 89 years,Females,2020,3941
+Annual,Malta,85 - 89 years,Females,2021,4032
+Annual,Malta,85 - 89 years,Females,2022,4120
+Annual,Malta,85 - 89 years,Females,2023,4227
+Annual,Malta,100 years and over,Total,2018,41
+Annual,Malta,100 years and over,Total,2019,57
+Annual,Malta,100 years and over,Total,2020,55
+Annual,Malta,100 years and over,Total,2021,56
+Annual,Malta,100 years and over,Total,2022,52
+Annual,Malta,100 years and over,Total,2023,59
+Annual,Gozo,10 - 14 years,Total,2018,1577
+Annual,Gozo,10 - 14 years,Total,2019,1609
+Annual,Gozo,10 - 14 years,Total,2020,1608
+Annual,Gozo,10 - 14 years,Total,2021,1677
+Annual,Gozo,10 - 14 years,Total,2022,1755
+Annual,Gozo,10 - 14 years,Total,2023,1763
+Annual,Gozo,65 years and over,Males,2018,3628
+Annual,Gozo,65 years and over,Males,2019,3817
+Annual,Gozo,65 years and over,Males,2020,3867
+Annual,Gozo,65 years and over,Males,2021,4078
+Annual,Gozo,65 years and over,Males,2022,4177
+Annual,Gozo,65 years and over,Males,2023,4317
+Annual,Gozo,85 - 89 years,Females,2018,358
+Annual,Gozo,85 - 89 years,Females,2019,369
+Annual,Gozo,85 - 89 years,Females,2020,384
+Annual,Gozo,85 - 89 years,Females,2021,386
+Annual,Gozo,85 - 89 years,Females,2022,398
+Annual,Gozo,85 - 89 years,Females,2023,413
+Annual,Maltese Islands,5 - 9 years,Females,2018,10944
+Annual,Maltese Islands,5 - 9 years,Females,2019,11021
+Annual,Maltese Islands,5 - 9 years,Females,2020,11079
+Annual,Maltese Islands,5 - 9 years,Females,2021,10995
+Annual,Maltese Islands,5 - 9 years,Females,2022,11119
+Annual,Maltese Islands,5 - 9 years,Females,2023,11419
+Annual,Maltese Islands,65 years and over,Females,2018,49158
+Annual,Maltese Islands,65 years and over,Females,2019,50428
+Annual,Maltese Islands,65 years and over,Females,2020,51399
+Annual,Maltese Islands,65 years and over,Females,2021,52609
+Annual,Maltese Islands,65 years and over,Females,2022,54055
+Annual,Maltese Islands,65 years and over,Females,2023,55356
+Annual,Maltese Islands,35 - 39 years,Females,2018,18672
+Annual,Maltese Islands,35 - 39 years,Females,2019,19776
+Annual,Maltese Islands,35 - 39 years,Females,2020,20097
+Annual,Maltese Islands,35 - 39 years,Females,2021,20384
+Annual,Maltese Islands,35 - 39 years,Females,2022,21192
+Annual,Maltese Islands,35 - 39 years,Females,2023,22648
+Annual,Maltese Islands,40 - 44 years,Females,2018,17034
+Annual,Maltese Islands,40 - 44 years,Females,2019,18005
+Annual,Maltese Islands,40 - 44 years,Females,2020,18336
+Annual,Maltese Islands,40 - 44 years,Females,2021,18605
+Annual,Maltese Islands,40 - 44 years,Females,2022,19649
+Annual,Maltese Islands,40 - 44 years,Females,2023,20537
+Annual,Malta,20 - 24 years,Females,2018,13107
+Annual,Malta,20 - 24 years,Females,2019,13274
+Annual,Malta,20 - 24 years,Females,2020,12678
+Annual,Malta,20 - 24 years,Females,2021,12163
+Annual,Malta,20 - 24 years,Females,2022,12687
+Annual,Malta,20 - 24 years,Females,2023,13173
+Annual,Malta,25 - 29 years,Total,2018,39354
+Annual,Malta,25 - 29 years,Total,2019,42003
+Annual,Malta,25 - 29 years,Total,2020,40764
+Annual,Malta,25 - 29 years,Total,2021,40172
+Annual,Malta,25 - 29 years,Total,2022,43676
+Annual,Malta,25 - 29 years,Total,2023,47616
+Annual,Malta,25 - 29 years,Females,2018,18615
+Annual,Malta,25 - 29 years,Females,2019,19207
+Annual,Malta,25 - 29 years,Females,2020,18329
+Annual,Malta,25 - 29 years,Females,2021,17824
+Annual,Malta,25 - 29 years,Females,2022,18620
+Annual,Malta,25 - 29 years,Females,2023,19532
+Annual,Malta,30 - 34 years,Females,2018,18750
+Annual,Malta,30 - 34 years,Females,2019,20357
+Annual,Malta,30 - 34 years,Females,2020,20704
+Annual,Malta,30 - 34 years,Females,2021,20909
+Annual,Malta,30 - 34 years,Females,2022,22047
+Annual,Malta,30 - 34 years,Females,2023,23154
+Annual,Malta,35 - 39 years,Total,2018,37522
+Annual,Malta,35 - 39 years,Total,2019,40618
+Annual,Malta,35 - 39 years,Total,2020,41266
+Annual,Malta,35 - 39 years,Total,2021,42110
+Annual,Malta,35 - 39 years,Total,2022,44983
+Annual,Malta,35 - 39 years,Total,2023,48683
+Annual,Malta,95 - 99 years,Females,2018,343
+Annual,Malta,95 - 99 years,Females,2019,359
+Annual,Malta,95 - 99 years,Females,2020,368
+Annual,Malta,95 - 99 years,Females,2021,384
+Annual,Malta,95 - 99 years,Females,2022,390
+Annual,Malta,95 - 99 years,Females,2023,388
+Annual,Gozo,0 - 14 years,Males,2018,2396
+Annual,Gozo,0 - 14 years,Males,2019,2483
+Annual,Gozo,0 - 14 years,Males,2020,2524
+Annual,Gozo,0 - 14 years,Males,2021,2551
+Annual,Gozo,0 - 14 years,Males,2022,2593
+Annual,Gozo,0 - 14 years,Males,2023,2580
+Annual,Gozo,10 - 14 years,Females,2018,765
+Annual,Gozo,10 - 14 years,Females,2019,783
+Annual,Gozo,10 - 14 years,Females,2020,782
+Annual,Gozo,10 - 14 years,Females,2021,811
+Annual,Gozo,10 - 14 years,Females,2022,852
+Annual,Gozo,10 - 14 years,Females,2023,857
+Annual,Gozo,15 - 64 years,Total,2018,23340
+Annual,Gozo,15 - 64 years,Total,2019,24794
+Annual,Gozo,15 - 64 years,Total,2020,25170
+Annual,Gozo,15 - 64 years,Total,2021,25638
+Annual,Gozo,15 - 64 years,Total,2022,26217
+Annual,Gozo,15 - 64 years,Total,2023,26654
+Annual,Gozo,20 - 24 years,Total,2018,2190
+Annual,Gozo,20 - 24 years,Total,2019,2274
+Annual,Gozo,20 - 24 years,Total,2020,2266
+Annual,Gozo,20 - 24 years,Total,2021,2196
+Annual,Gozo,20 - 24 years,Total,2022,2243
+Annual,Gozo,20 - 24 years,Total,2023,2188
+Annual,Gozo,70 - 74 years,Females,2018,1253
+Annual,Gozo,70 - 74 years,Females,2019,1253
+Annual,Gozo,70 - 74 years,Females,2020,1232
+Annual,Gozo,70 - 74 years,Females,2021,1204
+Annual,Gozo,70 - 74 years,Females,2022,1166
+Annual,Gozo,70 - 74 years,Females,2023,1161
+Annual,Gozo,80 - 84 years,Females,2018,599
+Annual,Gozo,80 - 84 years,Females,2019,603
+Annual,Gozo,80 - 84 years,Females,2020,586
+Annual,Gozo,80 - 84 years,Females,2021,549
+Annual,Gozo,80 - 84 years,Females,2022,535
+Annual,Gozo,80 - 84 years,Females,2023,571
+Annual,Gozo,85 - 89 years,Total,2018,546
+Annual,Gozo,85 - 89 years,Total,2019,569
+Annual,Gozo,85 - 89 years,Total,2020,598
+Annual,Gozo,85 - 89 years,Total,2021,608
+Annual,Gozo,85 - 89 years,Total,2022,625
+Annual,Gozo,85 - 89 years,Total,2023,636
+Annual,Maltese Islands,15 - 64 years,Total,2018,335805
+Annual,Maltese Islands,15 - 64 years,Total,2019,353665
+Annual,Maltese Islands,15 - 64 years,Total,2020,352914
+Annual,Maltese Islands,15 - 64 years,Total,2021,354465
+Annual,Maltese Islands,15 - 64 years,Total,2022,372319
+Annual,Maltese Islands,15 - 64 years,Total,2023,390555
+Annual,Maltese Islands,100 years and over,Males,2018,4
+Annual,Maltese Islands,100 years and over,Males,2019,4
+Annual,Maltese Islands,100 years and over,Males,2020,3
+Annual,Maltese Islands,100 years and over,Males,2021,4
+Annual,Maltese Islands,100 years and over,Males,2022,3
+Annual,Maltese Islands,100 years and over,Males,2023,5
+Annual,Maltese Islands,80 - 84 years,Males,2018,4705
+Annual,Maltese Islands,80 - 84 years,Males,2019,4869
+Annual,Maltese Islands,80 - 84 years,Males,2020,4826
+Annual,Maltese Islands,80 - 84 years,Males,2021,4648
+Annual,Maltese Islands,80 - 84 years,Males,2022,4543
+Annual,Maltese Islands,80 - 84 years,Males,2023,4804
+Annual,Malta,5 - 9 years,Males,2018,10813
+Annual,Malta,5 - 9 years,Males,2019,11084
+Annual,Malta,5 - 9 years,Males,2020,11133
+Annual,Malta,5 - 9 years,Males,2021,11114
+Annual,Malta,5 - 9 years,Males,2022,11270
+Annual,Malta,5 - 9 years,Males,2023,11496
+Annual,Malta,10 - 14 years,Males,2018,10362
+Annual,Malta,10 - 14 years,Males,2019,10641
+Annual,Malta,10 - 14 years,Males,2020,10658
+Annual,Malta,10 - 14 years,Males,2021,10784
+Annual,Malta,10 - 14 years,Males,2022,11012
+Annual,Malta,10 - 14 years,Males,2023,11102
+Annual,Malta,30 - 34 years,Total,2018,40204
+Annual,Malta,30 - 34 years,Total,2019,44247
+Annual,Malta,30 - 34 years,Total,2020,44837
+Annual,Malta,30 - 34 years,Total,2021,45631
+Annual,Malta,30 - 34 years,Total,2022,49785
+Annual,Malta,30 - 34 years,Total,2023,53563
+Annual,Malta,90 - 94 years,Females,2018,1396
+Annual,Malta,90 - 94 years,Females,2019,1460
+Annual,Malta,90 - 94 years,Females,2020,1520
+Annual,Malta,90 - 94 years,Females,2021,1629
+Annual,Malta,90 - 94 years,Females,2022,1745
+Annual,Malta,90 - 94 years,Females,2023,1885
+Annual,Malta,95 - 99 years,Total,2018,423
+Annual,Malta,95 - 99 years,Total,2019,453
+Annual,Malta,95 - 99 years,Total,2020,478
+Annual,Malta,95 - 99 years,Total,2021,516
+Annual,Malta,95 - 99 years,Total,2022,527
+Annual,Malta,95 - 99 years,Total,2023,541
+Annual,Gozo,Total,Males,2018,18253
+Annual,Gozo,Total,Males,2019,19527
+Annual,Gozo,Total,Males,2020,19803
+Annual,Gozo,Total,Males,2021,20406
+Annual,Gozo,Total,Males,2022,21067
+Annual,Gozo,Total,Males,2023,21488
+Annual,Gozo,15 - 64 years,Females,2018,11111
+Annual,Gozo,15 - 64 years,Females,2019,11567
+Annual,Gozo,15 - 64 years,Females,2020,11758
+Annual,Gozo,15 - 64 years,Females,2021,11861
+Annual,Gozo,15 - 64 years,Females,2022,11920
+Annual,Gozo,15 - 64 years,Females,2023,12063
+Annual,Gozo,15 - 19 years,Total,2018,1835
+Annual,Gozo,15 - 19 years,Total,2019,1810
+Annual,Gozo,15 - 19 years,Total,2020,1694
+Annual,Gozo,15 - 19 years,Total,2021,1670
+Annual,Gozo,15 - 19 years,Total,2022,1656
+Annual,Gozo,15 - 19 years,Total,2023,1659
+Annual,Gozo,15 - 19 years,Females,2018,886
+Annual,Gozo,15 - 19 years,Females,2019,863
+Annual,Gozo,15 - 19 years,Females,2020,809
+Annual,Gozo,15 - 19 years,Females,2021,794
+Annual,Gozo,15 - 19 years,Females,2022,802
+Annual,Gozo,15 - 19 years,Females,2023,783
+Annual,Gozo,55 - 59 years,Males,2018,1388
+Annual,Gozo,55 - 59 years,Males,2019,1445
+Annual,Gozo,55 - 59 years,Males,2020,1423
+Annual,Gozo,55 - 59 years,Males,2021,1424
+Annual,Gozo,55 - 59 years,Males,2022,1355
+Annual,Gozo,55 - 59 years,Males,2023,1274
+Annual,Gozo,75 - 79 years,Total,2018,1255
+Annual,Gozo,75 - 79 years,Total,2019,1447
+Annual,Gozo,75 - 79 years,Total,2020,1557
+Annual,Gozo,75 - 79 years,Total,2021,1767
+Annual,Gozo,75 - 79 years,Total,2022,1998
+Annual,Gozo,75 - 79 years,Total,2023,2107
+Annual,Gozo,75 - 79 years,Females,2018,690
+Annual,Gozo,75 - 79 years,Females,2019,780
+Annual,Gozo,75 - 79 years,Females,2020,838
+Annual,Gozo,75 - 79 years,Females,2021,931
+Annual,Gozo,75 - 79 years,Females,2022,1065
+Annual,Gozo,75 - 79 years,Females,2023,1097
+Annual,Gozo,80 - 84 years,Total,2018,1012
+Annual,Gozo,80 - 84 years,Total,2019,1021
+Annual,Gozo,80 - 84 years,Total,2020,995
+Annual,Gozo,80 - 84 years,Total,2021,955
+Annual,Gozo,80 - 84 years,Total,2022,936
+Annual,Gozo,80 - 84 years,Total,2023,1016
+Annual,Maltese Islands,75 - 79 years,Total,2018,14064
+Annual,Maltese Islands,75 - 79 years,Total,2019,16042
+Annual,Maltese Islands,75 - 79 years,Total,2020,17812
+Annual,Maltese Islands,75 - 79 years,Total,2021,20250
+Annual,Maltese Islands,75 - 79 years,Total,2022,22966
+Annual,Maltese Islands,75 - 79 years,Total,2023,24730
+Annual,Maltese Islands,20 - 24 years,Females,2018,14142
+Annual,Maltese Islands,20 - 24 years,Females,2019,14341
+Annual,Maltese Islands,20 - 24 years,Females,2020,13753
+Annual,Maltese Islands,20 - 24 years,Females,2021,13207
+Annual,Maltese Islands,20 - 24 years,Females,2022,13713
+Annual,Maltese Islands,20 - 24 years,Females,2023,14179
+Annual,Maltese Islands,15 - 19 years,Males,2018,12510
+Annual,Maltese Islands,15 - 19 years,Males,2019,12526
+Annual,Maltese Islands,15 - 19 years,Males,2020,11864
+Annual,Maltese Islands,15 - 19 years,Males,2021,11697
+Annual,Maltese Islands,15 - 19 years,Males,2022,11751
+Annual,Maltese Islands,15 - 19 years,Males,2023,11882
+Annual,Maltese Islands,95 - 99 years,Females,2018,371
+Annual,Maltese Islands,95 - 99 years,Females,2019,392
+Annual,Maltese Islands,95 - 99 years,Females,2020,405
+Annual,Maltese Islands,95 - 99 years,Females,2021,424
+Annual,Maltese Islands,95 - 99 years,Females,2022,440
+Annual,Maltese Islands,95 - 99 years,Females,2023,432
+Annual,Malta,0 - 14 years,Males,2018,32132
+Annual,Malta,0 - 14 years,Males,2019,32799
+Annual,Malta,0 - 14 years,Males,2020,32721
+Annual,Malta,0 - 14 years,Males,2021,32620
+Annual,Malta,0 - 14 years,Males,2022,33091
+Annual,Malta,0 - 14 years,Males,2023,33304
+Annual,Malta,55 - 59 years,Females,2018,13955
+Annual,Malta,55 - 59 years,Females,2019,13723
+Annual,Malta,55 - 59 years,Females,2020,13281
+Annual,Malta,55 - 59 years,Females,2021,12878
+Annual,Malta,55 - 59 years,Females,2022,12652
+Annual,Malta,55 - 59 years,Females,2023,12685
+Annual,Malta,65 - 69 years,Total,2018,26037
+Annual,Malta,65 - 69 years,Total,2019,25835
+Annual,Malta,65 - 69 years,Total,2020,25626
+Annual,Malta,65 - 69 years,Total,2021,25913
+Annual,Malta,65 - 69 years,Total,2022,26492
+Annual,Malta,65 - 69 years,Total,2023,26860
+Annual,Malta,70 - 74 years,Males,2018,12137
+Annual,Malta,70 - 74 years,Males,2019,12233
+Annual,Malta,70 - 74 years,Males,2020,12425
+Annual,Malta,70 - 74 years,Males,2021,12247
+Annual,Malta,70 - 74 years,Males,2022,12041
+Annual,Malta,70 - 74 years,Males,2023,11836
+Annual,Malta,70 - 74 years,Females,2018,13139
+Annual,Malta,70 - 74 years,Females,2019,13178
+Annual,Malta,70 - 74 years,Females,2020,13247
+Annual,Malta,70 - 74 years,Females,2021,13062
+Annual,Malta,70 - 74 years,Females,2022,12843
+Annual,Malta,70 - 74 years,Females,2023,12553
+Annual,Gozo,30 - 34 years,Females,2018,1110
+Annual,Gozo,30 - 34 years,Females,2019,1237
+Annual,Gozo,30 - 34 years,Females,2020,1307
+Annual,Gozo,30 - 34 years,Females,2021,1308
+Annual,Gozo,30 - 34 years,Females,2022,1343
+Annual,Gozo,30 - 34 years,Females,2023,1367
+Annual,Gozo,45 - 49 years,Total,2018,2123
+Annual,Gozo,45 - 49 years,Total,2019,2341
+Annual,Gozo,45 - 49 years,Total,2020,2429
+Annual,Gozo,45 - 49 years,Total,2021,2514
+Annual,Gozo,45 - 49 years,Total,2022,2557
+Annual,Gozo,45 - 49 years,Total,2023,2562
+Annual,Gozo,50 - 54 years,Males,2018,1217
+Annual,Gozo,50 - 54 years,Males,2019,1262
+Annual,Gozo,50 - 54 years,Males,2020,1241
+Annual,Gozo,50 - 54 years,Males,2021,1276
+Annual,Gozo,50 - 54 years,Males,2022,1325
+Annual,Gozo,50 - 54 years,Males,2023,1363
+Annual,Gozo,50 - 54 years,Females,2018,1115
+Annual,Gozo,50 - 54 years,Females,2019,1127
+Annual,Gozo,50 - 54 years,Females,2020,1115
+Annual,Gozo,50 - 54 years,Females,2021,1133
+Annual,Gozo,50 - 54 years,Females,2022,1123
+Annual,Gozo,50 - 54 years,Females,2023,1152
+Annual,Gozo,65 years and over,Total,2018,7881
+Annual,Gozo,65 years and over,Total,2019,8203
+Annual,Gozo,65 years and over,Total,2020,8300
+Annual,Gozo,65 years and over,Total,2021,8620
+Annual,Gozo,65 years and over,Total,2022,8886
+Annual,Gozo,65 years and over,Total,2023,9171
+Annual,Maltese Islands,15 - 19 years,Total,2018,23555
+Annual,Maltese Islands,15 - 19 years,Total,2019,23553
+Annual,Maltese Islands,15 - 19 years,Total,2020,22367
+Annual,Maltese Islands,15 - 19 years,Total,2021,22200
+Annual,Maltese Islands,15 - 19 years,Total,2022,22441
+Annual,Maltese Islands,15 - 19 years,Total,2023,22632
+Annual,Maltese Islands,80 - 84 years,Females,2018,6649
+Annual,Maltese Islands,80 - 84 years,Females,2019,6801
+Annual,Maltese Islands,80 - 84 years,Females,2020,6744
+Annual,Maltese Islands,80 - 84 years,Females,2021,6545
+Annual,Maltese Islands,80 - 84 years,Females,2022,6226
+Annual,Maltese Islands,80 - 84 years,Females,2023,6457
+Annual,Maltese Islands,75 - 79 years,Males,2018,6302
+Annual,Maltese Islands,75 - 79 years,Males,2019,7352
+Annual,Maltese Islands,75 - 79 years,Males,2020,8208
+Annual,Maltese Islands,75 - 79 years,Males,2021,9436
+Annual,Maltese Islands,75 - 79 years,Males,2022,10658
+Annual,Maltese Islands,75 - 79 years,Males,2023,11578
+Annual,Malta,Total,Total,2018,457072
+Annual,Malta,Total,Total,2019,477023
+Annual,Malta,Total,Total,2020,477718
+Annual,Malta,Total,Total,2021,480907
+Annual,Malta,Total,Total,2022,501860
+Annual,Malta,Total,Total,2023,522517
+Annual,Malta,10 - 14 years,Total,2018,19906
+Annual,Malta,10 - 14 years,Total,2019,20464
+Annual,Malta,10 - 14 years,Total,2020,20542
+Annual,Malta,10 - 14 years,Total,2021,20900
+Annual,Malta,10 - 14 years,Total,2022,21432
+Annual,Malta,10 - 14 years,Total,2023,21530
+Annual,Malta,15 - 64 years,Males,2018,164116
+Annual,Malta,15 - 64 years,Males,2019,175318
+Annual,Malta,15 - 64 years,Males,2020,175090
+Annual,Malta,15 - 64 years,Males,2021,176271
+Annual,Malta,15 - 64 years,Males,2022,188145
+Annual,Malta,15 - 64 years,Males,2023,200221
+Annual,Malta,35 - 39 years,Females,2018,17614
+Annual,Malta,35 - 39 years,Females,2019,18620
+Annual,Malta,35 - 39 years,Females,2020,18852
+Annual,Malta,35 - 39 years,Females,2021,19067
+Annual,Malta,35 - 39 years,Females,2022,19853
+Annual,Malta,35 - 39 years,Females,2023,21230
+Annual,Malta,85 - 89 years,Total,2018,5624
+Annual,Malta,85 - 89 years,Total,2019,5859
+Annual,Malta,85 - 89 years,Total,2020,6127
+Annual,Malta,85 - 89 years,Total,2021,6378
+Annual,Malta,85 - 89 years,Total,2022,6618
+Annual,Malta,85 - 89 years,Total,2023,6854
+Annual,Malta,90 - 94 years,Males,2018,637
+Annual,Malta,90 - 94 years,Males,2019,638
+Annual,Malta,90 - 94 years,Males,2020,658
+Annual,Malta,90 - 94 years,Males,2021,717
+Annual,Malta,90 - 94 years,Males,2022,745
+Annual,Malta,90 - 94 years,Males,2023,779
+Annual,Gozo,Total,Females,2018,17643
+Annual,Gozo,Total,Females,2019,18305
+Annual,Gozo,Total,Females,2020,18604
+Annual,Gozo,Total,Females,2021,18861
+Annual,Gozo,Total,Females,2022,19124
+Annual,Gozo,Total,Females,2023,19438
+Annual,Gozo,25 - 29 years,Total,2018,2585
+Annual,Gozo,25 - 29 years,Total,2019,2770
+Annual,Gozo,25 - 29 years,Total,2020,2786
+Annual,Gozo,25 - 29 years,Total,2021,2815
+Annual,Gozo,25 - 29 years,Total,2022,2986
+Annual,Gozo,25 - 29 years,Total,2023,3056
+Annual,Gozo,30 - 34 years,Males,2018,1330
+Annual,Gozo,30 - 34 years,Males,2019,1508
+Annual,Gozo,30 - 34 years,Males,2020,1571
+Annual,Gozo,30 - 34 years,Males,2021,1614
+Annual,Gozo,30 - 34 years,Males,2022,1715
+Annual,Gozo,30 - 34 years,Males,2023,1849
+Annual,Gozo,65 - 69 years,Females,2018,1169
+Annual,Gozo,65 - 69 years,Females,2019,1184
+Annual,Gozo,65 - 69 years,Females,2020,1186
+Annual,Gozo,65 - 69 years,Females,2021,1259
+Annual,Gozo,65 - 69 years,Females,2022,1315
+Annual,Gozo,65 - 69 years,Females,2023,1372
+Annual,Malta,15 - 19 years,Males,2018,11561
+Annual,Malta,15 - 19 years,Males,2019,11579
+Annual,Malta,15 - 19 years,Males,2020,10979
+Annual,Malta,15 - 19 years,Males,2021,10821
+Annual,Malta,15 - 19 years,Males,2022,10897
+Annual,Malta,15 - 19 years,Males,2023,11006
+Annual,Malta,15 - 19 years,Females,2018,10159
+Annual,Malta,15 - 19 years,Females,2019,10164
+Annual,Malta,15 - 19 years,Females,2020,9694
+Annual,Malta,15 - 19 years,Females,2021,9709
+Annual,Malta,15 - 19 years,Females,2022,9888
+Annual,Malta,15 - 19 years,Females,2023,9967
+Annual,Malta,45 - 49 years,Total,2018,28390
+Annual,Malta,45 - 49 years,Total,2019,30678
+Annual,Malta,45 - 49 years,Total,2020,31913
+Annual,Malta,45 - 49 years,Total,2021,33017
+Annual,Malta,45 - 49 years,Total,2022,34900
+Annual,Malta,45 - 49 years,Total,2023,36777
+Annual,Malta,50 - 54 years,Total,2018,25918
+Annual,Malta,50 - 54 years,Total,2019,26345
+Annual,Malta,50 - 54 years,Total,2020,26573
+Annual,Malta,50 - 54 years,Total,2021,27318
+Annual,Malta,50 - 54 years,Total,2022,28705
+Annual,Malta,50 - 54 years,Total,2023,29742
+Annual,Gozo,0 - 14 years,Females,2018,2279
+Annual,Gozo,0 - 14 years,Females,2019,2352
+Annual,Gozo,0 - 14 years,Females,2020,2413
+Annual,Gozo,0 - 14 years,Females,2021,2458
+Annual,Gozo,0 - 14 years,Females,2022,2495
+Annual,Gozo,0 - 14 years,Females,2023,2521
+Annual,Gozo,5 - 9 years,Total,2018,1561
+Annual,Gozo,5 - 9 years,Total,2019,1611
+Annual,Gozo,5 - 9 years,Total,2020,1679
+Annual,Gozo,5 - 9 years,Total,2021,1780
+Annual,Gozo,5 - 9 years,Total,2022,1733
+Annual,Gozo,5 - 9 years,Total,2023,1720
+Annual,Gozo,10 - 14 years,Males,2018,812
+Annual,Gozo,10 - 14 years,Males,2019,826
+Annual,Gozo,10 - 14 years,Males,2020,826
+Annual,Gozo,10 - 14 years,Males,2021,866
+Annual,Gozo,10 - 14 years,Males,2022,903
+Annual,Gozo,10 - 14 years,Males,2023,906
+Annual,Gozo,15 - 64 years,Males,2018,12229
+Annual,Gozo,15 - 64 years,Males,2019,13227
+Annual,Gozo,15 - 64 years,Males,2020,13412
+Annual,Gozo,15 - 64 years,Males,2021,13777
+Annual,Gozo,15 - 64 years,Males,2022,14297
+Annual,Gozo,15 - 64 years,Males,2023,14591
+Annual,Gozo,90 - 94 years,Females,2018,154
+Annual,Gozo,90 - 94 years,Females,2019,161
+Annual,Gozo,90 - 94 years,Females,2020,167
+Annual,Gozo,90 - 94 years,Females,2021,173
+Annual,Gozo,90 - 94 years,Females,2022,179
+Annual,Gozo,90 - 94 years,Females,2023,192
+Annual,Gozo,100 years and over,Total,2018,3
+Annual,Gozo,100 years and over,Total,2019,3
+Annual,Gozo,100 years and over,Total,2020,3
+Annual,Gozo,100 years and over,Total,2021,0
+Annual,Gozo,100 years and over,Total,2022,2
+Annual,Gozo,100 years and over,Total,2023,5
+Annual,Malta,15 - 64 years,Total,2018,312465
+Annual,Malta,15 - 64 years,Total,2019,328871
+Annual,Malta,15 - 64 years,Total,2020,327744
+Annual,Malta,15 - 64 years,Total,2021,328827
+Annual,Malta,15 - 64 years,Total,2022,346102
+Annual,Malta,15 - 64 years,Total,2023,363901
+Annual,Malta,15 - 64 years,Females,2018,148349
+Annual,Malta,15 - 64 years,Females,2019,153553
+Annual,Malta,15 - 64 years,Females,2020,152654
+Annual,Malta,15 - 64 years,Females,2021,152556
+Annual,Malta,15 - 64 years,Females,2022,157957
+Annual,Malta,15 - 64 years,Females,2023,163680
+Annual,Malta,50 - 54 years,Males,2018,13305
+Annual,Malta,50 - 54 years,Males,2019,13684
+Annual,Malta,50 - 54 years,Males,2020,13876
+Annual,Malta,50 - 54 years,Males,2021,14285
+Annual,Malta,50 - 54 years,Males,2022,15110
+Annual,Malta,50 - 54 years,Males,2023,15689
+Annual,Malta,55 - 59 years,Males,2018,14470
+Annual,Malta,55 - 59 years,Males,2019,14580
+Annual,Malta,55 - 59 years,Males,2020,14169
+Annual,Malta,55 - 59 years,Males,2021,13743
+Annual,Malta,55 - 59 years,Males,2022,13434
+Annual,Malta,55 - 59 years,Males,2023,13516
+Annual,Malta,75 - 79 years,Females,2018,7072
+Annual,Malta,75 - 79 years,Females,2019,7910
+Annual,Malta,75 - 79 years,Females,2020,8766
+Annual,Malta,75 - 79 years,Females,2021,9883
+Annual,Malta,75 - 79 years,Females,2022,11243
+Annual,Malta,75 - 79 years,Females,2023,12055
+Annual,Gozo,65 - 69 years,Males,2018,1232
+Annual,Gozo,65 - 69 years,Males,2019,1250
+Annual,Gozo,65 - 69 years,Males,2020,1239
+Annual,Gozo,65 - 69 years,Males,2021,1312
+Annual,Gozo,65 - 69 years,Males,2022,1308
+Annual,Gozo,65 - 69 years,Males,2023,1346
+Annual,Gozo,70 - 74 years,Males,2018,1138
+Annual,Gozo,70 - 74 years,Males,2019,1184
+Annual,Gozo,70 - 74 years,Males,2020,1184
+Annual,Gozo,70 - 74 years,Males,2021,1202
+Annual,Gozo,70 - 74 years,Males,2022,1212
+Annual,Gozo,70 - 74 years,Males,2023,1186
+Annual,Malta,Total,Females,2018,223144
+Annual,Malta,Total,Females,2019,229991
+Annual,Malta,Total,Females,2020,229907
+Annual,Malta,Total,Females,2021,230844
+Annual,Malta,Total,Females,2022,238106
+Annual,Malta,Total,Females,2023,245259
+Annual,Malta,0 - 14 years,Total,2018,62022
+Annual,Malta,0 - 14 years,Total,2019,63195
+Annual,Malta,0 - 14 years,Total,2020,63008
+Annual,Malta,0 - 14 years,Total,2021,62841
+Annual,Malta,0 - 14 years,Total,2022,63894
+Annual,Malta,0 - 14 years,Total,2023,64381
+Annual,Malta,5 - 9 years,Total,2018,20991
+Annual,Malta,5 - 9 years,Total,2019,21323
+Annual,Malta,5 - 9 years,Total,2020,21404
+Annual,Malta,5 - 9 years,Total,2021,21252
+Annual,Malta,5 - 9 years,Total,2022,21548
+Annual,Malta,5 - 9 years,Total,2023,22046
+Annual,Malta,60 - 64 years,Females,2018,13897
+Annual,Malta,60 - 64 years,Females,2019,14114
+Annual,Malta,60 - 64 years,Females,2020,14194
+Annual,Malta,60 - 64 years,Females,2021,14018
+Annual,Malta,60 - 64 years,Females,2022,13981
+Annual,Malta,60 - 64 years,Females,2023,13733
+Annual,Malta,70 - 74 years,Total,2018,25276
+Annual,Malta,70 - 74 years,Total,2019,25411
+Annual,Malta,70 - 74 years,Total,2020,25672
+Annual,Malta,70 - 74 years,Total,2021,25309
+Annual,Malta,70 - 74 years,Total,2022,24884
+Annual,Malta,70 - 74 years,Total,2023,24389
+Annual,Gozo,Total,Total,2018,35896
+Annual,Gozo,Total,Total,2019,37832
+Annual,Gozo,Total,Total,2020,38407
+Annual,Gozo,Total,Total,2021,39267
+Annual,Gozo,Total,Total,2022,40191
+Annual,Gozo,Total,Total,2023,40926
+Annual,Gozo,35 - 39 years,Males,2018,1248
+Annual,Gozo,35 - 39 years,Males,2019,1422
+Annual,Gozo,35 - 39 years,Males,2020,1494
+Annual,Gozo,35 - 39 years,Males,2021,1587
+Annual,Gozo,35 - 39 years,Males,2022,1680
+Annual,Gozo,35 - 39 years,Males,2023,1785
+Annual,Gozo,35 - 39 years,Females,2018,1058
+Annual,Gozo,35 - 39 years,Females,2019,1156
+Annual,Gozo,35 - 39 years,Females,2020,1245
+Annual,Gozo,35 - 39 years,Females,2021,1317
+Annual,Gozo,35 - 39 years,Females,2022,1339
+Annual,Gozo,35 - 39 years,Females,2023,1418
+Annual,Gozo,60 - 64 years,Total,2018,2583
+Annual,Gozo,60 - 64 years,Total,2019,2722
+Annual,Gozo,60 - 64 years,Total,2020,2807
+Annual,Gozo,60 - 64 years,Total,2021,2919
+Annual,Gozo,60 - 64 years,Total,2022,2931
+Annual,Gozo,60 - 64 years,Total,2023,2909
+Annual,Malta,50 - 54 years,Females,2018,12613
+Annual,Malta,50 - 54 years,Females,2019,12661
+Annual,Malta,50 - 54 years,Females,2020,12697
+Annual,Malta,50 - 54 years,Females,2021,13033
+Annual,Malta,50 - 54 years,Females,2022,13595
+Annual,Malta,50 - 54 years,Females,2023,14053
+Annual,Malta,55 - 59 years,Total,2018,28425
+Annual,Malta,55 - 59 years,Total,2019,28303
+Annual,Malta,55 - 59 years,Total,2020,27450
+Annual,Malta,55 - 59 years,Total,2021,26621
+Annual,Malta,55 - 59 years,Total,2022,26086
+Annual,Malta,55 - 59 years,Total,2023,26201
+Annual,Malta,65 - 69 years,Females,2018,13159
+Annual,Malta,65 - 69 years,Females,2019,13069
+Annual,Malta,65 - 69 years,Females,2020,12914
+Annual,Malta,65 - 69 years,Females,2021,13029
+Annual,Malta,65 - 69 years,Females,2022,13264
+Annual,Malta,65 - 69 years,Females,2023,13453
+Annual,Malta,95 - 99 years,Males,2018,80
+Annual,Malta,95 - 99 years,Males,2019,94
+Annual,Malta,95 - 99 years,Males,2020,110
+Annual,Malta,95 - 99 years,Males,2021,132
+Annual,Malta,95 - 99 years,Males,2022,137
+Annual,Malta,95 - 99 years,Males,2023,153
+Annual,Gozo,15 - 19 years,Males,2018,949
+Annual,Gozo,15 - 19 years,Males,2019,947
+Annual,Gozo,15 - 19 years,Males,2020,885
+Annual,Gozo,15 - 19 years,Males,2021,876
+Annual,Gozo,15 - 19 years,Males,2022,854
+Annual,Gozo,15 - 19 years,Males,2023,876
+Annual,Gozo,40 - 44 years,Total,2018,2212
+Annual,Gozo,40 - 44 years,Total,2019,2371
+Annual,Gozo,40 - 44 years,Total,2020,2469
+Annual,Gozo,40 - 44 years,Total,2021,2557
+Annual,Gozo,40 - 44 years,Total,2022,2719
+Annual,Gozo,40 - 44 years,Total,2023,2865
+Annual,Gozo,55 - 59 years,Females,2018,1346
+Annual,Gozo,55 - 59 years,Females,2019,1349
+Annual,Gozo,55 - 59 years,Females,2020,1323
+Annual,Gozo,55 - 59 years,Females,2021,1308
+Annual,Gozo,55 - 59 years,Females,2022,1245
+Annual,Gozo,55 - 59 years,Females,2023,1207
+Annual,Gozo,95 - 99 years,Males,2018,12
+Annual,Gozo,95 - 99 years,Males,2019,16
+Annual,Gozo,95 - 99 years,Males,2020,19
+Annual,Gozo,95 - 99 years,Males,2021,20
+Annual,Gozo,95 - 99 years,Males,2022,19
+Annual,Gozo,95 - 99 years,Males,2023,15
+Annual,Malta,30 - 34 years,Males,2018,21454
+Annual,Malta,30 - 34 years,Males,2019,23890
+Annual,Malta,30 - 34 years,Males,2020,24133
+Annual,Malta,30 - 34 years,Males,2021,24722
+Annual,Malta,30 - 34 years,Males,2022,27738
+Annual,Malta,30 - 34 years,Males,2023,30409
+Annual,Malta,35 - 39 years,Males,2018,19908
+Annual,Malta,35 - 39 years,Males,2019,21998
+Annual,Malta,35 - 39 years,Males,2020,22414
+Annual,Malta,35 - 39 years,Males,2021,23043
+Annual,Malta,35 - 39 years,Males,2022,25130
+Annual,Malta,35 - 39 years,Males,2023,27453
+Annual,Malta,40 - 44 years,Males,2018,17899
+Annual,Malta,40 - 44 years,Males,2019,19573
+Annual,Malta,40 - 44 years,Males,2020,20025
+Annual,Malta,40 - 44 years,Males,2021,20414
+Annual,Malta,40 - 44 years,Males,2022,22002
+Annual,Malta,40 - 44 years,Males,2023,23505
+Annual,Gozo,80 - 84 years,Males,2018,413
+Annual,Gozo,80 - 84 years,Males,2019,418
+Annual,Gozo,80 - 84 years,Males,2020,409
+Annual,Gozo,80 - 84 years,Males,2021,406
+Annual,Gozo,80 - 84 years,Males,2022,401
+Annual,Gozo,80 - 84 years,Males,2023,445
+Annual,Gozo,85 - 89 years,Males,2018,188
+Annual,Gozo,85 - 89 years,Males,2019,200
+Annual,Gozo,85 - 89 years,Males,2020,214
+Annual,Gozo,85 - 89 years,Males,2021,222
+Annual,Gozo,85 - 89 years,Males,2022,227
+Annual,Gozo,85 - 89 years,Males,2023,223
+Annual,Gozo,90 - 94 years,Males,2018,79
+Annual,Gozo,90 - 94 years,Males,2019,82
+Annual,Gozo,90 - 94 years,Males,2020,83
+Annual,Gozo,90 - 94 years,Males,2021,80
+Annual,Gozo,90 - 94 years,Males,2022,76
+Annual,Gozo,90 - 94 years,Males,2023,91
+Annual,Malta,0 - 14 years,Females,2018,29890
+Annual,Malta,0 - 14 years,Females,2019,30396
+Annual,Malta,0 - 14 years,Females,2020,30287
+Annual,Malta,0 - 14 years,Females,2021,30221
+Annual,Malta,0 - 14 years,Females,2022,30803
+Annual,Malta,0 - 14 years,Females,2023,31077
+Annual,Malta,0 - 4 years,Females,2018,10168
+Annual,Malta,0 - 4 years,Females,2019,10334
+Annual,Malta,0 - 4 years,Females,2020,10132
+Annual,Malta,0 - 4 years,Females,2021,9967
+Annual,Malta,0 - 4 years,Females,2022,10105
+Annual,Malta,0 - 4 years,Females,2023,10099
+Annual,Malta,65 years and over,Total,2018,82585
+Annual,Malta,65 years and over,Total,2019,84957
+Annual,Malta,65 years and over,Total,2020,86966
+Annual,Malta,65 years and over,Total,2021,89239
+Annual,Malta,65 years and over,Total,2022,91864
+Annual,Malta,65 years and over,Total,2023,94235
+Annual,Malta,100 years and over,Males,2018,3
+Annual,Malta,100 years and over,Males,2019,4
+Annual,Malta,100 years and over,Males,2020,3
+Annual,Malta,100 years and over,Males,2021,4
+Annual,Malta,100 years and over,Males,2022,2
+Annual,Malta,100 years and over,Males,2023,4
+Annual,Gozo,20 - 24 years,Males,2018,1155
+Annual,Gozo,20 - 24 years,Males,2019,1207
+Annual,Gozo,20 - 24 years,Males,2020,1191
+Annual,Gozo,20 - 24 years,Males,2021,1152
+Annual,Gozo,20 - 24 years,Males,2022,1217
+Annual,Gozo,20 - 24 years,Males,2023,1182
+Annual,Gozo,25 - 29 years,Males,2018,1359
+Annual,Gozo,25 - 29 years,Males,2019,1521
+Annual,Gozo,25 - 29 years,Males,2020,1558
+Annual,Gozo,25 - 29 years,Males,2021,1609
+Annual,Gozo,25 - 29 years,Males,2022,1744
+Annual,Gozo,25 - 29 years,Males,2023,1760
+Annual,Gozo,45 - 49 years,Females,2018,1006
+Annual,Gozo,45 - 49 years,Females,2019,1081
+Annual,Gozo,45 - 49 years,Females,2020,1126
+Annual,Gozo,45 - 49 years,Females,2021,1152
+Annual,Gozo,45 - 49 years,Females,2022,1169
+Annual,Gozo,45 - 49 years,Females,2023,1161
+Annual,Gozo,50 - 54 years,Total,2018,2332
+Annual,Gozo,50 - 54 years,Total,2019,2389
+Annual,Gozo,50 - 54 years,Total,2020,2356
+Annual,Gozo,50 - 54 years,Total,2021,2409
+Annual,Gozo,50 - 54 years,Total,2022,2448
+Annual,Gozo,50 - 54 years,Total,2023,2515
